@@ -1,5 +1,5 @@
 # Expense-Tracker-App
-A simple and responsive Expense Tracker built using HTML, CSS, and JavaScript.This application helps users manage their daily income and expenses efficiently with real-time balance updates and data persistence using LocalStorage.
+A simple and responsive Expense Tracker App built using HTML, CSS, and JavaScript.This application helps users manage their daily income and expenses efficiently with real-time balance updates and data persistence using LocalStorage.
 
 Features
 
